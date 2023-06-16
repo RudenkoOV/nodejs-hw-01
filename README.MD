@@ -9,6 +9,6 @@
 <p>Скриншоты на Git</p>
 
 ![screen #1](https://github.com/RudenkoOV/nodejs-hw-01/blob/main/screns/1.jpg)
-![screen #2](./screens/2.JPG)
+![screen #2](./screens/2.jpg)
 ![screen #3](./screens/3.JPG)
 ![screen #4](./screens/4.JPG)
