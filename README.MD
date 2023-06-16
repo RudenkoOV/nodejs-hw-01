@@ -8,4 +8,9 @@
 </ul>
 <p>Скриншоты на Git</p>
 
-![screen](./screens/1.JPG)
+<ul>
+<li>![screen](./screens/1.JPG)</li>
+<li>![screen](./screens/2.JPG)</li>
+<li>![screen](./screens/3.JPG)</li>
+<li>![screen](./screens/4.JPG)</li>
+</ul>
