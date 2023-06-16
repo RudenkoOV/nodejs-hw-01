@@ -8,7 +8,7 @@
 </ul>
 <p>Скриншоты на Git</p>
 
-![screen](./screens/1.JPG)
+![screen](https://github.com/RudenkoOV/nodejs-hw-01/blob/main/screns/1.jpg)
 
 <li>![screen](./screens/2.JPG)</li>
 <li>![screen](./screens/3.JPG)</li>
