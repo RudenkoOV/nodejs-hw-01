@@ -1,10 +1,11 @@
 <p>Домашнее задание NodeJS #1</p>
 <p>Скриншоты на стороннем облаке (перейти по ссылке)</p>
-<a>https://ibb.co/yBFXNh5</a>
-<a>https://ibb.co/Jd4pWK2</a>
-<a>https://ibb.co/L58WnFG</a>
-<a>https://ibb.co/cQkj0Cx</a>
-
+<ul>
+<li>https://ibb.co/yBFXNh5</li>
+<li>https://ibb.co/Jd4pWK2</li>
+<li>https://ibb.co/L58WnFG</li>
+<li>https://ibb.co/cQkj0Cx</li>
+</ul>
 <p>Скриншоты на Git</p>
 
-![команда 1] (./screens/1.jpg)
+![screen](./screens/1.JPG)
